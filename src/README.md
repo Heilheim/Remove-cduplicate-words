@@ -1,0 +1,1 @@
+Remove-consecutive-duplicate-words
